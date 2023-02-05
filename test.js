@@ -1,1 +1,0 @@
-console.log('önemli bir bildirim --> TEST.JS');
